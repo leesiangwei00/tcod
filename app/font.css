@@ -1,0 +1,73 @@
+/* Noto Sans Font Faces - Using local TTF files */
+
+/* Extra Light */
+@font-face {
+  font-family: "Noto Sans";
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url("/fonts/NotoSans-ExtraLight.ttf") format("truetype");
+}
+
+/* Light */
+@font-face {
+  font-family: "Noto Sans";
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url("/fonts/NotoSans-Light.ttf") format("truetype");
+}
+
+/* Regular */
+@font-face {
+  font-family: "Noto Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/fonts/NotoSans-Regular.ttf") format("truetype");
+}
+
+/* Medium */
+@font-face {
+  font-family: "Noto Sans";
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("/fonts/NotoSans-Medium.ttf") format("truetype");
+}
+
+/* Semi Bold */
+@font-face {
+  font-family: "Noto Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("/fonts/NotoSans-SemiBold.ttf") format("truetype");
+}
+
+/* Bold */
+@font-face {
+  font-family: "Noto Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("/fonts/NotoSans-Bold.ttf") format("truetype");
+}
+
+/* Extra Bold */
+@font-face {
+  font-family: "Noto Sans";
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url("/fonts/NotoSans-ExtraBold.ttf") format("truetype");
+}
+
+/* Black */
+@font-face {
+  font-family: "Noto Sans";
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url("/fonts/NotoSans-Black.ttf") format("truetype");
+}
